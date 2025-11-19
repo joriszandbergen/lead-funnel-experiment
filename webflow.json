@@ -1,6 +1,7 @@
 {
   "cloud": {
-    "framework": "nextjs"
+    "framework": "nextjs",
+    "project_id": "39a5d030-6721-491e-8a87-b48aee3b3f8a"
   },
   "devlink": {
     "rootDir": "./src/devlink",
